@@ -1,7 +1,7 @@
 body {
   background-image: url(/img/bgnode.jpg);
   background-size: cover;
-  background-position: no-repeat;
+  background-repeat: no-repeat;
   margin: 0;
 }
 
